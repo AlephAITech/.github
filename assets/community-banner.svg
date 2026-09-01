@@ -30,17 +30,18 @@
   </g>
 
   <g transform="translate(350 84)" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
-    <text x="0" y="28" fill="#D8FF32" font-size="16" font-weight="700" letter-spacing="4">OPEN-SOURCE AI COMMUNITY</text>
-    <text x="0" y="92" fill="#FFFFFF" font-size="54" font-weight="800" letter-spacing="-1">Aleph AI Tech</text>
-    <text x="0" y="137" fill="#C7CAD4" font-size="23" font-weight="500">让 AI 进入真实工作，让有效方法持续生长</text>
+    <text x="0" y="28" fill="#D8FF32" font-size="16" font-weight="700" letter-spacing="4">WORKAGENT CO-CREATION COMMUNITY</text>
+    <text x="0" y="92" fill="#FFFFFF" font-size="54" font-weight="800" letter-spacing="-1">AgentWork</text>
+    <text x="0" y="137" fill="#C7CAD4" font-size="23" font-weight="600">把 Agent 用进真实工作</text>
+    <text x="1" y="169" fill="#8D92A3" font-size="14" font-weight="600" letter-spacing="1.8">BY ALEPH AI TECH</text>
   </g>
 
   <g transform="translate(862 206)" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" font-weight="700" letter-spacing="1.4">
-    <rect x="0" y="0" width="79" height="34" rx="8" fill="#D8FF32"/>
-    <text x="13" y="22" fill="#0A0B0F">GUIDE</text>
-    <rect x="89" y="0" width="114" height="34" rx="8" fill="#FFFFFF" fill-opacity="0.1" stroke="#FFFFFF" stroke-opacity="0.14"/>
-    <text x="102" y="22" fill="#FFFFFF">WORKFLOW</text>
-    <rect x="213" y="0" width="73" height="34" rx="8" fill="#9B6BFF"/>
-    <text x="226" y="22" fill="#FFFFFF">SKILL</text>
+    <rect x="0" y="0" width="68" height="34" rx="8" fill="#D8FF32"/>
+    <text x="13" y="22" fill="#0A0B0F">CASE</text>
+    <rect x="78" y="0" width="73" height="34" rx="8" fill="#9B6BFF"/>
+    <text x="91" y="22" fill="#FFFFFF">SKILL</text>
+    <rect x="161" y="0" width="114" height="34" rx="8" fill="#FFFFFF" fill-opacity="0.1" stroke="#FFFFFF" stroke-opacity="0.14"/>
+    <text x="174" y="22" fill="#FFFFFF">WORKFLOW</text>
   </g>
 </svg>

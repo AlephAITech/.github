@@ -1,29 +1,41 @@
 <p align="center">
   <a href="https://github.com/AlephAITech">
-    <img src="../assets/community-banner.svg" alt="Aleph AI Tech open-source community" width="100%">
+    <img src="../assets/community-banner.svg" alt="AgentWork community" width="100%">
   </a>
 </p>
 
 <p align="center">
-  <strong>让 AI 进入真实工作，把有效方法沉淀为公共资产。</strong><br>
-  <sub>Practical AI guides, reproducible workflows, Skills, and open-source tools.</sub>
+  <strong>把 Agent 用进真实工作。</strong><br>
+  <sub>面向真实工作的 WorkAgent 实战共创社区</sub>
 </p>
 
 <p align="center">
-  <a href="#-开源项目">开源项目</a> ·
-  <a href="#-从哪里开始">开始探索</a> ·
+  <a href="#-社区共识">社区共识</a> ·
+  <a href="#-共创成果">共创成果</a> ·
   <a href="#-参与共创">参与共创</a>
 </p>
 
-## 👋 欢迎来到 Aleph AI Tech
+## 👋 欢迎来到 AgentWork
 
-我们把真实工作中的 AI 实践整理成可阅读、可运行、可检查、可复用的开源资产。这里包含系统指南、社区案例、Agent Skills，以及面向具体业务的工作流工具。
+AgentWork 是一个**面向真实工作的 WorkAgent 实战共创社区**。
 
-| 真实任务 | 可复现过程 | 社区共创 |
-| --- | --- | --- |
-| 从明确的问题出发 | 写清输入、步骤与验收 | 用 Issue 和 Pull Request 一起完善 |
+社区连接 WorkAgent 用户、产品方、行业专家和企业实践者，跨越单一产品，以一项具体的工作任务为起点，共同测试豆包工作、WorkBuddy、千问办公等产品。
 
-## 🚀 开源项目
+我们持续追问四件事：它能不能解决问题，过程能不能复现，结果能不能交付，又会在哪些地方失效。
+
+## 🧭 社区共识
+
+AgentWork 的所有内容都遵循四个标准：
+
+| 真场景 | 真过程 | 真结果 | 真边界 |
+| --- | --- | --- | --- |
+| 从真实工作任务出发 | 记录可复现的输入与步骤 | 展示可以检查的交付成果 | 说明限制、失败与适用条件 |
+
+一项任务跑通之后，我们会把它沉淀成可以复现的 **Case、Skill 和工作流**，让更多人继续使用、验证和完善。
+
+> **把一人的用法，变成百业的方法。**
+
+## 🚀 共创成果
 
 | 项目 | 内容 | 快速入口 | 社区热度 |
 | --- | --- | --- | --- |
@@ -31,7 +43,7 @@
 | **[DoubaoWorkGuide](https://github.com/AlephAITech/DoubaoWorkGuide)** | 豆包工作系统化中文实践指南：49 篇指南与 31 个真实任务，覆盖连接器、Skill、API、定时任务与多 Agent 工作流 | [在线阅读](https://doubaowork.homes/) · [查看源码](https://github.com/AlephAITech/DoubaoWorkGuide) | [![Stars](https://img.shields.io/github/stars/AlephAITech/DoubaoWorkGuide?style=flat-square&label=Stars)](https://github.com/AlephAITech/DoubaoWorkGuide/stargazers) [![Forks](https://img.shields.io/github/forks/AlephAITech/DoubaoWorkGuide?style=flat-square&label=Forks)](https://github.com/AlephAITech/DoubaoWorkGuide/forks) |
 | **[moyuxl-ecom-image-prompt](https://github.com/AlephAITech/moyuxl-ecom-image-prompt)** | 面向电商主图与详情页的视觉策划 Skill，支持参考反推、卖点研究、设计大纲、逐屏提示词与生产验收 | [使用说明](https://github.com/AlephAITech/moyuxl-ecom-image-prompt#readme) · [安装 Skill](https://github.com/AlephAITech/moyuxl-ecom-image-prompt#在豆包中使用) | [![Stars](https://img.shields.io/github/stars/AlephAITech/moyuxl-ecom-image-prompt?style=flat-square&label=Stars)](https://github.com/AlephAITech/moyuxl-ecom-image-prompt/stargazers) |
 
-## 🧭 从哪里开始
+## 🧩 从哪里开始
 
 - 想系统掌握 WorkBuddy：从 [WorkBuddy 实战蓝皮书](https://workbuddy.homes/) 的第一章开始。
 - 正在使用豆包工作：打开 [豆包工作指南](https://doubaowork.homes/)，按真实任务选择相近案例。
@@ -51,5 +63,6 @@
 第一次参与开源协作，可以先从修正错别字、补充链接或完善一个小案例开始。具体要求请阅读各项目的 README 与贡献指南。
 
 <p align="center">
-  <sub>Build in public · Learn from real work · Share what works</sub>
+  <strong>把 Agent 用进真实工作。</strong><br>
+  <sub>AgentWork Community · Powered by Aleph AI Tech</sub>
 </p>
