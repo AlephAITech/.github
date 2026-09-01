@@ -13,7 +13,8 @@
   <a href="#-社区共识">社区共识</a> ·
   <a href="#-共创成果">共创成果</a> ·
   <a href="#-参与共创">参与共创</a> ·
-  <a href="https://github.com/orgs/AlephAITech/discussions">社区讨论</a>
+  <a href="https://github.com/orgs/AlephAITech/discussions">社区讨论</a> ·
+  <a href="#-加入交流群">加入交流群</a>
 </p>
 
 ## 👋 欢迎来到 AgentWork
@@ -65,6 +66,18 @@ AgentWork 的所有内容都遵循四个标准：
 第一次参与开源协作，可以先从修正错别字、补充链接或完善一个小案例开始。具体要求请阅读各项目的 README 与贡献指南。
 
 需要寻找共创伙伴、交流测试结果或讨论失效边界，可以直接进入 [AgentWork Discussions](https://github.com/orgs/AlephAITech/discussions)。
+
+## 💬 加入交流群
+
+想交流真实工作场景、测试过程、交付结果和失效边界，欢迎扫码加入 AgentWork 交流群。
+
+<p align="center">
+  <img src="../assets/agentwork-wechat-group-qr.png" alt="AgentWork 交流群二维码" width="240">
+</p>
+
+<p align="center">
+  <sub>微信扫码加入。二维码失效时，请在 <a href="https://github.com/orgs/AlephAITech/discussions">Discussions</a> 留言提醒。</sub>
+</p>
 
 <p align="center">
   <strong>把 Agent 用进真实工作。</strong><br>
