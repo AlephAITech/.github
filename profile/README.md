@@ -12,7 +12,8 @@
 <p align="center">
   <a href="#-社区共识">社区共识</a> ·
   <a href="#-共创成果">共创成果</a> ·
-  <a href="#-参与共创">参与共创</a>
+  <a href="#-参与共创">参与共创</a> ·
+  <a href="https://github.com/orgs/AlephAITech/discussions">社区讨论</a>
 </p>
 
 ## 👋 欢迎来到 AgentWork
@@ -48,6 +49,7 @@ AgentWork 的所有内容都遵循四个标准：
 - 想系统掌握 WorkBuddy：从 [WorkBuddy 实战蓝皮书](https://workbuddy.homes/) 的第一章开始。
 - 正在使用豆包工作：打开 [豆包工作指南](https://doubaowork.homes/)，按真实任务选择相近案例。
 - 要制作电商主图或详情页：查看 [电商视觉 Skill](https://github.com/AlephAITech/moyuxl-ecom-image-prompt)，先准备产品资料与可公开使用的素材。
+- 还在探索一个真实工作问题：前往 [社区讨论](https://github.com/orgs/AlephAITech/discussions)，分享场景、现有方法与期待结果。
 - 已经沉淀出可复用的方法：在对应仓库提交 Issue 或 Pull Request，与社区一起完善。
 
 ## 🤝 参与共创
@@ -61,6 +63,8 @@ AgentWork 的所有内容都遵循四个标准：
 5. 明确的验收标准与适用边界。
 
 第一次参与开源协作，可以先从修正错别字、补充链接或完善一个小案例开始。具体要求请阅读各项目的 README 与贡献指南。
+
+需要寻找共创伙伴、交流测试结果或讨论失效边界，可以直接进入 [AgentWork Discussions](https://github.com/orgs/AlephAITech/discussions)。
 
 <p align="center">
   <strong>把 Agent 用进真实工作。</strong><br>
