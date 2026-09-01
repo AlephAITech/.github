@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/AlephAITech">
-    <img src="../assets/community-banner.svg?v=2" alt="AgentWork community" width="100%">
+    <img src="../assets/agentwork-community-banner.svg" alt="AgentWork community" width="100%">
   </a>
 </p>
 
