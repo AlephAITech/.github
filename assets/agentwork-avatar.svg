@@ -1,0 +1,24 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" role="img" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="512" y2="512" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#090A0E"/>
+      <stop offset="0.58" stop-color="#111320"/>
+      <stop offset="1" stop-color="#21133C"/>
+    </linearGradient>
+    <linearGradient id="mark" x1="134" y1="115" x2="385" y2="401" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D8FF32"/>
+      <stop offset="0.62" stop-color="#C4EF3A"/>
+      <stop offset="1" stop-color="#9B6BFF"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#FFFFFF" stroke-opacity="0.05"/>
+    </pattern>
+  </defs>
+
+  <rect width="512" height="512" rx="96" fill="url(#background)"/>
+  <rect width="512" height="512" rx="96" fill="url(#grid)"/>
+  <rect x="48" y="48" width="416" height="416" rx="80" stroke="#FFFFFF" stroke-opacity="0.13" stroke-width="4"/>
+  <path d="M115 391L228 121H284L397 391H329L304 324H207L182 391H115ZM228 267H283L256 191L228 267Z" fill="url(#mark)"/>
+  <circle cx="392" cy="119" r="28" fill="#D8FF32"/>
+  <path d="M375 119H409M392 102V136" stroke="#0A0B0F" stroke-width="7" stroke-linecap="round"/>
+</svg>
