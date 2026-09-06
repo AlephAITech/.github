@@ -72,7 +72,7 @@ AgentWork 的所有内容都遵循四个标准：
 想交流真实工作场景、测试过程、交付结果和失效边界，欢迎扫码加入 AgentWork 交流群。
 
 <p align="center">
-  <img src="../assets/agentwork-wechat-group-qr.png" alt="AgentWork 交流群二维码" width="240">
+  <img src="../assets/agentwork-wechat-group-qr.png?v=20260906" alt="AgentWork 交流群二维码" width="240">
 </p>
 
 <p align="center">
